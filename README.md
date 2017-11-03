@@ -1,6 +1,5 @@
 ## 概要
 共同制作中ゲームのスクリプト等"新バージョンテスト用"です  
-**Branch未作成のため、まだ以下のリンクは機能しません**
 
 下記にてゲームをプレビューすることができます  
 https://fumibako.github.io/test_newver/play/  
@@ -8,15 +7,15 @@ https://fumibako.github.io/test_newver/play/
 　(具体的には主人公邸関連背景、町背景などいくつかの背景は仮画像です。効果音は再現されません)  
 
 ## スタッフ作業用リンク(追加実装終了後このリンクは消す予定です) 
-・四条シナリオ　：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/scenario/sijyou  
-・葛城宮シナリオ：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/scenario/katuraginomiya  
-・藤枝シナリオ　：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/scenario/hujieda  
-・財前シナリオ　：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/scenario/zaizen  
-・シナリオやスクリプト全般　：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/scenario  
-・背景◆B4nFWraU42さん：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/fgimage/bg/B4nFWraU42  
-・背景◆I9IhvvVdPoさん：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/fgimage/bg/I9IhvvVdPo  
-・背景全般：https://github.com/fumibako/test_newver/tree/gh-pages/play/data/fgimage/bg  
-・全般　：https://github.com/fumibako/test_newver/tree/gh-pages/play/  
+・四条シナリオ　：https://github.com/fumibako/test_newver/tree/master/play/data/scenario/sijyou  
+・葛城宮シナリオ：https://github.com/fumibako/test_newver/tree/master/play/data/scenario/katuraginomiya  
+・藤枝シナリオ　：https://github.com/fumibako/test_newver/tree/master/play/data/scenario/hujieda  
+・財前シナリオ　：https://github.com/fumibako/test_newver/tree/master/play/data/scenario/zaizen  
+・シナリオやスクリプト全般　：https://github.com/fumibako/test_newver/tree/master/play/data/scenario  
+・背景◆B4nFWraU42さん：https://github.com/fumibako/test_newver/tree/master/play/data/fgimage/bg/B4nFWraU42  
+・背景◆I9IhvvVdPoさん：https://github.com/fumibako/test_newver/tree/master/play/data/fgimage/bg/I9IhvvVdPo  
+・背景全般：https://github.com/fumibako/test_newver/tree/master/play/data/fgimage/bg  
+・全般　：https://github.com/fumibako/test_newver/tree/master/play/  
   
 ## 利用規約
 音声、画像、テキスト素材を抜き出して再配布、再使用、改変することを禁止します  
