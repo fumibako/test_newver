@@ -1,5 +1,8 @@
 ## 概要
 共同制作中ゲームのスクリプト等"新バージョンテスト用"です  
+githubがmaster branchでのWebプレビューに対応できるようになったことから、このリポジトリはmaster branchをWebプレビュー元に設定し、作業用リンクもmaster branchにリンクしています。  
+本編のリポジトリとbranchが異なることにご注意ください。  
+もしこのリポジトリについてもgh-pages Branchの方が作業しやすいようでしたら、おっしゃってください。対応します。  
 
 下記にてゲームをプレビューすることができます  
 https://fumibako.github.io/test_newver/play/  
